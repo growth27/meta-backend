@@ -4,7 +4,7 @@ This repository contains Meta Back-end Dev course topics such as Python programm
 
 ## Contents:
 
-| Sr. No. | Meta Backend Program          | Time   | Status  |
+| Sr. No. | Meta Backend Course           | Time   | Status  |
 | ------: | :---------------------------- | :----- | :------ |
 |       1 | Intro to Backend              |        |         |
 |         |                               | Week 1 | reading |
